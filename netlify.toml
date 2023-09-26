@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "form.html"
+to = "style1.html"
 status = 200
